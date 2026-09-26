@@ -46,9 +46,9 @@ Documento hallazgos técnicos y los conecto con su impacto legal real.
 
 ### 📫 Contacto
 
-- LinkedIn: `[tu-linkedin]`
-- Correo: `[tu-correo]`
-- Portafolio web: `[tu-sitio, opcional vía GitHub Pages]`
+- LinkedIn: [linkedin.com/in/damianmacancela](https://linkedin.com/in/damianmacancela)
+- Correo: damianmacancela@example.com
+- Portafolio web: https://github.com/DamianMacancela
 
 ---
 
