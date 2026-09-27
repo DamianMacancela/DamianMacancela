@@ -32,7 +32,8 @@ He dedicado parte de mi investigación y formación a la implementación del mod
 
 ### Desarrollo e IA
 * **Lenguajes & Scripting:** Python, Bash, JavaScript, SQL.
-* **Inteligencia Artificial:** Machine Learning básico (scikit-learn, pandas) aplicado a la detección de anomalías y phishing.
+* **Frontend & WebAssembly:** React, Next.js, procesamiento in-browser.
+* **Inteligencia Artificial:** Machine Learning (scikit-learn, pandas) aplicado a la detección de anomalías y phishing, Computer Vision básico.
 
 ---
 
@@ -41,26 +42,26 @@ He dedicado parte de mi investigación y formación a la implementación del mod
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🔒 <a href="https://github.com/DamianMacancela/crypto-shield">Crypto Shield</a></h3>
-      <p>Herramienta CLI de encriptación local (AES-256-GCM) orientada a proteger la confidencialidad técnica requerida por normativas de protección de datos.</p>
-      <p><strong>Stack:</strong> <code>Python</code> <code>cryptography</code></p>
+      <h3>👁️ <a href="https://zerotrust-redact.vercel.app/">ZeroTrust Redact (Live)</a></h3>
+      <p>Motor de ofuscación de Datos Personales (PII) 100% On-Device. Utiliza WebAssembly para redactar documentos (PDF/Imágenes) directamente en la memoria RAM del navegador, sin enviar datos al servidor. Construido para garantizar el cumplimiento estricto de la LOPDP y GDPR (Arquitectura Zero-Knowledge).</p>
+      <p><strong>Stack:</strong> <code>Next.js</code> <code>WebAssembly</code> <code>Computer Vision</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🕵️ <a href="https://github.com/DamianMacancela/pentest-lab-writeup">Pentest Lab Write-up</a></h3>
-      <p>Documentación técnica de ejercicios de intrusión ética en un entorno controlado, aplicando la metodología OWASP WSTG v4.2.</p>
-      <p><strong>Stack:</strong> <code>Nmap</code> <code>Burp Suite</code> <code>SQLi</code></p>
+      <h3>🔒 <a href="https://github.com/DamianMacancela/crypto-shield">Crypto Shield</a></h3>
+      <p>Herramienta CLI de encriptación local (AES-256-GCM) con derivación PBKDF2, orientada a proteger la confidencialidad técnica requerida por normativas de protección de datos a nivel de sistema operativo.</p>
+      <p><strong>Stack:</strong> <code>Python</code> <code>cryptography</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/DamianMacancela/ai-phishing-classifier">Phishing Detector IA</a></h3>
-      <p>Prototipo de clasificador de correos desarrollado con Machine Learning clásico para identificar posibles amenazas de phishing.</p>
-      <p><strong>Stack:</strong> <code>Python</code> <code>scikit-learn</code></p>
+      <h3>🕵️ <a href="https://github.com/DamianMacancela/pentest-lab-writeup">Pentest Lab Write-up</a></h3>
+      <p>Documentación técnica de ejercicios de intrusión ética en un entorno controlado, aplicando la metodología OWASP WSTG v4.2 para identificar y mitigar vulnerabilidades.</p>
+      <p><strong>Stack:</strong> <code>Nmap</code> <code>Burp Suite</code> <code>SQLi</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚖️ <a href="https://github.com/DamianMacancela/lopdp-eipd-toolkit">Toolkit LOPDP · EIPD</a></h3>
-      <p>Plantilla base para facilitar la Evaluación de Impacto en Protección de Datos (EIPD), adaptada a la normativa ecuatoriana (ISO 29134).</p>
-      <p><strong>Stack:</strong> <code>LOPDP</code> <code>Compliance</code></p>
+      <h3>🤖 <a href="https://github.com/DamianMacancela/ai-phishing-classifier">Phishing Detector IA</a></h3>
+      <p>Prototipo de clasificador de correos desarrollado con Machine Learning clásico (TF-IDF y Naive Bayes) para identificar posibles amenazas de phishing complementando controles SPF/DKIM.</p>
+      <p><strong>Stack:</strong> <code>Python</code> <code>scikit-learn</code></p>
     </td>
   </tr>
 </table>
