@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=80&lines=Damian+Fabricio+Macancela;Derecho+%7C+Ciberseguridad+%7C+Gobernanza+de+Datos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=650&height=80&lines=Damian+Fabricio+Macancela;Ciberseguridad+%7C+Derecho+Digital+%7C+Gobernanza+TI" alt="Typing SVG" />
   <br>
 </h1>
 
@@ -11,9 +11,8 @@
 </p>
 
 <p align="center">
-  <i>Estudiante de <b>Derecho</b> y <b>Ciberseguridad</b> en Ecuador 🇪🇨<br>
-  Aprendiendo cada día sobre gobernanza de datos, inteligencia artificial aplicada a seguridad y cumplimiento normativo.<br>
-  Construyo proyectos prácticos para entender los problemas desde adentro, no solo desde la teoría.</i>
+  <i>Jefe de Sistemas en una cooperativa financiera · Estudiante de Derecho (UTPL) · Especialista en Ciberseguridad (ITSA)<br>
+  Miembro del Consejo del Tecnológico del Azuay 🇪🇨</i>
 </p>
 
 ---
@@ -23,18 +22,21 @@
 ```yaml
 Nombre:       Damian Fabricio Macancela
 Ubicación:    Ecuador 🇪🇨
-Formación:    Estudiante de Derecho y Ciberseguridad
-Intereses:    Gobernanza de Datos · IA aplicada a Seguridad · Cumplimiento Legal
-En proceso:   Certificación eJPT
-Filosofía:    Aprendo construyendo — cada proyecto es un problema real resuelto
+Cargo actual: Jefe de Sistemas — Cooperativa Financiera
+Formación:    Especialista en Ciberseguridad (ITSA) · Estudiante de Derecho (UTPL)
+Rol público:  Miembro del Consejo del Tecnológico del Azuay
+Misión:       La tecnología debe estar al servicio de la justicia
+              y la transparencia institucional
 ```
 
-- 📚 **Estudiante**, no especialista — pero cada día aprendo más y lo demuestro con proyectos reales.
-- ⚖️ **Derecho + Ciberseguridad**: entiendo que una vulnerabilidad técnica tiene consecuencias legales reales (LOPDP, COIP).
-- 🏛️ **Gobernanza de datos**: estudio cómo las organizaciones deben gestionar, proteger y gobernar la información personal.
-- 🤖 **IA y seguridad**: exploro cómo el Machine Learning puede ayudar a detectar amenazas (phishing, anomalías, triage).
-- ✍️ **Escribo artículos** y documentación técnica para compartir lo que aprendo con la comunidad.
-- 🔐 En proceso de certificación **eJPT** como primer paso hacia la seguridad ofensiva profesional.
+- 🏦 **Jefe de Sistemas** en una cooperativa financiera: protejo datos financieros sensibles y gestiono la infraestructura tecnológica de la organización.
+- ⚖️ **Estudiante de Derecho** (UTPL): porque entender la ley es fundamental para aplicar la ciberseguridad con criterio — no basta con encontrar la vulnerabilidad, hay que saber qué implica legalmente.
+- 🔐 **Especialista en Ciberseguridad** (ITSA): formación técnica en seguridad ofensiva, defensiva, gobernanza de datos y cumplimiento normativo.
+- 🏛️ **Miembro del Consejo del Tecnológico del Azuay**: contribuyo a la innovación en gestión pública y educación tecnológica.
+- 🤖 **IA y gobernanza**: estudio cómo la inteligencia artificial puede fortalecer la seguridad y la toma de decisiones en organizaciones.
+- ✍️ Escribo artículos y documentación técnica para compartir lo que aprendo con la comunidad.
+
+> *Creo en que la tecnología debe estar al servicio de la justicia y la transparencia institucional. Mi trabajo combina la protección de datos financieros, el derecho digital y la innovación en la gestión pública.*
 
 ---
 
@@ -96,8 +98,8 @@ Filosofía:    Aprendo construyendo — cada proyecto es un problema real resuel
     <td width="60" align="center">🔒</td>
     <td>
       <b><a href="https://github.com/DamianMacancela/crypto-shield">Crypto Shield — Herramienta de Encriptación</a></b><br>
-      Herramienta CLI en Python para encriptar y desencriptar archivos (documentos, PDFs, cualquier tipo de archivo) usando criptografía AES-256-GCM. Protege información sensible con contraseña y derivación de clave segura (PBKDF2).<br>
-      <sub><b>Stack:</b> Python · cryptography · AES-256-GCM · PBKDF2 · Argparse</sub>
+      Herramienta CLI en Python para encriptar y desencriptar archivos (documentos, PDFs, cualquier tipo) usando AES-256-GCM con derivación de clave segura PBKDF2. Pensada para proteger información financiera y datos personales sensibles.<br>
+      <sub><b>Stack:</b> Python · cryptography · AES-256-GCM · PBKDF2</sub>
     </td>
   </tr>
   <tr>
@@ -138,7 +140,7 @@ Filosofía:    Aprendo construyendo — cada proyecto es un problema real resuel
 ---
 
 <p align="center">
-  <i>"No soy especialista todavía, pero cada proyecto que construyo me acerca un paso más.<br>Aprendo haciendo, no solo leyendo."</i>
+  <i>"La tecnología debe estar al servicio de la justicia y la transparencia institucional."</i>
 </p>
 
 <p align="center">
