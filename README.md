@@ -15,11 +15,19 @@ Actualmente formo parte del **Consejo del Tecnológico del Azuay** y realizo pr�
 
 ---
 
+## 🛡️ Especial Atención: Modelo Zero Trust
+
+He dedicado parte de mi investigación y formación a la implementación del modelo de seguridad **Zero Trust** adaptado a la realidad legal y tecnológica del Ecuador. Creo firmemente que la confianza debe verificarse en cada transacción, especialmente en el sector financiero e institucional.
+
+* 📖 **Lee mi artículo completo:** [**Zero Trust: una mirada técnica y legal a su implementación en Ecuador**](https://damianmacancela.github.io/blog/zero-trust-ecuador.html)
+
+---
+
 ## 🛠️ Stack y Conocimientos
 
 ### Ciberseguridad y Gobernanza
 * **Seguridad Ofensiva & Análisis:** Pentesting (OWASP WSTG), Análisis de Vulnerabilidades.
-* **Gobernanza y Cumplimiento:** LOPDP (Ecuador), ISO/IEC 27001, ISO/IEC 29134 (EIPD), NIST CSF.
+* **Gobernanza y Cumplimiento:** LOPDP (Ecuador), ISO/IEC 27001, ISO/IEC 29134 (EIPD), Arquitectura Zero Trust, NIST CSF.
 * **Herramientas:** Nmap, Burp Suite, Metasploit, Wireshark.
 
 ### Desarrollo e IA
@@ -59,7 +67,7 @@ Actualmente formo parte del **Consejo del Tecnológico del Azuay** y realizo pr�
 
 ---
 
-## ✍️ Publicaciones y Reflexiones
+## ✍️ Otras Publicaciones
 
 Comparto mis apuntes sobre el ecosistema digital, la privacidad y la seguridad en mi [Blog Personal](https://damianmacancela.github.io):
 
