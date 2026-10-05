@@ -95,6 +95,22 @@ Misión:       La tecnología debe estar al servicio de la justicia
 
 <table>
   <tr>
+    <td width="60" align="center">🛡️</td>
+    <td>
+      <b><a href="https://github.com/DamianMacancela/EntraHunt">EntraHunt — Threat Hunting con IA para Entra ID</a></b><br>
+      Módulo de PowerShell para analistas SOC que identifica comportamientos sospechosos en Microsoft Entra ID (rociado de contraseñas, fatiga MFA, reglas de bandeja de entrada). Incluye integración con Anthropic Claude y Ollama para triaje automatizado con seudonimización estricta de PII.<br>
+      <sub><b>Stack:</b> PowerShell · Microsoft Graph API · LLMs (Claude/Ollama) · MITRE ATT&CK · CI/CD</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="60" align="center">🔧</td>
+    <td>
+      <b><a href="https://github.com/DamianMacancela/HuntKit">HuntKit — PowerShell Persistence Toolkit</a></b><br>
+      Módulo avanzado para operaciones de Red/Blue Team. Facilita la creación, gestión y caza de mecanismos de persistencia en Windows (Tareas Programadas, Run Keys, WMI) evaluando derivas (drifts) frente a líneas base.<br>
+      <sub><b>Stack:</b> PowerShell 7 · WMI · Windows Registry · Pester 5</sub>
+    </td>
+  </tr>
+  <tr>
     <td width="60" align="center">🔒</td>
     <td>
       <b><a href="https://github.com/DamianMacancela/crypto-shield">Crypto Shield — Herramienta de Encriptación</a></b><br>
