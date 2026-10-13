@@ -38,8 +38,20 @@ Mi trabajo aborda tres frentes complementarios:
 
 | Proyecto | Enfoque Técnico | Marco Normativo & Estándares |
 | :--- | :--- | :--- |
+| **[lopdp-compliance-saas](https://github.com/DamianMacancela/lopdp-compliance-saas)** | Plataforma SaaS e infraestructura self-hosted para gestión integral de cumplimiento LOPDP: Discovery Engine de PII, RAT automatizado, cronómetro ARSOP+ (15 días) y triaje de brechas (5 días). | `Next.js 14` `Supabase` `PostgreSQL` `n8n` `Docker` `LOPDP` |
 | **[lopdp-eipd-toolkit](https://github.com/DamianMacancela/lopdp-eipd-toolkit)** | Kit de plantillas estructuradas en Markdown para Evaluaciones de Impacto en Protección de Datos personales (**EIPD/DPIA**), matrices de riesgo y mapeo de flujos de datos. | `LOPDP (Ecuador)` `RGPD / GDPR` `ISO/IEC 29134` `ISO 27001` |
 | **[crypto-shield](https://github.com/DamianMacancela/crypto-shield)** | Utilidad CLI para cifrado y autenticación de archivos sensibles con derivación segura de claves, alineada a estándares de cifrado en reposo. | `Python` `AES-256-GCM` `PBKDF2-HMAC-SHA256` |
+
+---
+
+### 📚 Publicaciones & Divulgación Técnica
+
+* **[Manual de Defensa Digital y Ciber-Soberanía](https://github.com/DamianMacancela/manual-defensa-digital-ecuador)**  
+  Guía cívica y práctica orientada a la protección bancaria, privacidad del dato personal y ejercicio efectivo de los derechos ARSOP bajo la LOPDP en el contexto ecuatoriano.
+* **[El Código de la Resiliencia](https://github.com/DamianMacancela/El-Codigo-De-La-Resiliencia)**  
+  Publicación sobre la convergencia entre meritocracia técnica, derecho digital, ciberdefensa e innovación en la gestión pública.
+* **[Derecho Digital en Latinoamérica](https://github.com/DamianMacancela/derecho-digital-latam)**  
+  Recursos, análisis comparativo y doctrina sobre privacidad, evidencia digital y marcos normativos de ciberseguridad en la región.
 
 ---
 
