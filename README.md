@@ -9,6 +9,8 @@ Prefiero escribir código limpio que hablar de teoría corporativa. No hay "magi
 
 ### Herramientas & Investigación
 
+* **[DriverTriage](https://github.com/DamianMacancela/DriverTriage)** 
+  Triaje estático de drivers de kernel Windows para priorizar candidatos BYOVD desconocidos con métricas y parser PE propio en C#.
 * **[EntraHunt](https://github.com/DamianMacancela/EntraHunt)** 
   Motor de Threat Hunting con triaje de IA para Microsoft Entra ID. (PowerShell / Microsoft Graph API)
 * **[HuntKit](https://github.com/DamianMacancela/HuntKit)** 
