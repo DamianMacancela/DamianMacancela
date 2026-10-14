@@ -7,6 +7,13 @@
   <img src="https://img.shields.io/badge/Ubicación-Ecuador_🇪🇨-00529B?style=for-the-badge" alt="Ecuador" />
 </p>
 
+<p align="left">
+  <a href="https://github.com/DamianMacancela?tab=followers"><img src="https://img.shields.io/github/followers/DamianMacancela?label=Seguir%20en%20GitHub&style=social" alt="Follow GitHub" /></a>
+  <a href="https://github.com/DamianMacancela/DriverTriage"><img src="https://img.shields.io/github/stars/DamianMacancela/DriverTriage?label=Star%20DriverTriage&style=social" alt="Star DriverTriage" /></a>
+  <a href="https://github.com/DamianMacancela/ZeroTrust-Scanner-OpenSource"><img src="https://img.shields.io/github/stars/DamianMacancela/ZeroTrust-Scanner-OpenSource?label=Star%20ZeroTrust&style=social" alt="Star ZeroTrust" /></a>
+  <a href="https://github.com/DamianMacancela/LOPDP-Compliance-Toolkit-Ecuador"><img src="https://img.shields.io/github/stars/DamianMacancela/LOPDP-Compliance-Toolkit-Ecuador?label=Star%20LOPDP%20Toolkit&style=social" alt="Star Toolkit" /></a>
+</p>
+
 > **Ciberseguridad Técnica & Threat Hunting · Arquitectura Zero Trust · Inteligencia Artificial Defensiva · Derecho Digital & Privacidad**  
 
 ---
@@ -69,6 +76,15 @@ Los tres desarrollos nucleares que representan el núcleo de mi trabajo técnico
   Publicación sobre la convergencia entre meritocracia técnica, derecho digital, ciberdefensa e innovación en la gestión pública.
 * **[Derecho Digital en Latinoamérica](https://github.com/DamianMacancela/derecho-digital-latam)**  
   Recursos, análisis comparativo y doctrina sobre privacidad, evidencia digital y marcos normativos de ciberseguridad en la región.
+
+---
+
+### 📊 Métricas de Desarrollo en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DamianMacancela&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamianMacancela&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
