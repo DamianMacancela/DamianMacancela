@@ -1,0 +1,21 @@
+# Environment & secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor & temporary files
+*.tmp
+*.bak
+*.swp
+*~
+.vscode/
+.idea/
