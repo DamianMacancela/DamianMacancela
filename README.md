@@ -14,6 +14,7 @@
   <a href="https://github.com/DamianMacancela/DriverTriage"><img src="https://img.shields.io/github/stars/DamianMacancela/DriverTriage?label=Star%20DriverTriage&style=social" alt="Star DriverTriage" /></a>
   <a href="https://github.com/DamianMacancela/ZeroTrust-Scanner-OpenSource"><img src="https://img.shields.io/github/stars/DamianMacancela/ZeroTrust-Scanner-OpenSource?label=Star%20ZeroTrust&style=social" alt="Star ZeroTrust" /></a>
   <a href="https://github.com/DamianMacancela/LOPDP-Compliance-Toolkit-Ecuador"><img src="https://img.shields.io/github/stars/DamianMacancela/LOPDP-Compliance-Toolkit-Ecuador?label=Star%20LOPDP%20Toolkit&style=social" alt="Star Toolkit" /></a>
+  <a href="https://github.com/DamianMacancela/FinSecOps-EC"><img src="https://img.shields.io/github/stars/DamianMacancela/FinSecOps-EC?label=Star%20FinSecOps-EC&style=social" alt="Star FinSecOps" /></a>
 </p>
 
 > **Ciberseguridad Técnica & Threat Hunting · Arquitectura Zero Trust · Inteligencia Artificial Defensiva · Derecho Digital & Privacidad**  
@@ -49,6 +50,7 @@ Los tres desarrollos nucleares que representan el núcleo de mi trabajo técnico
 
 | Proyecto | Enfoque Técnico | Stack / Tecnologías |
 | :--- | :--- | :--- |
+| **[FinSecOps-EC](https://github.com/DamianMacancela/FinSecOps-EC)** | Suite de SecOps bancario y GRC: Reglas WAF anti-credential stuffing, Hardening y Enmascaramiento Dinámico SQL (Art. 40 LOPDP), Reglas analíticas KQL en Microsoft Sentinel y Motor SOAR en Python con cadena de custodia SHA-256. | `Microsoft Sentinel` `KQL` `Python SOAR` `T-SQL DDM` `ModSecurity` `SEPS / LOPDP` |
 | **[EntraHunt](https://github.com/DamianMacancela/EntraHunt)** | Módulo de threat hunting e investigación de incidentes para Microsoft Entra ID. Detecta rociado de contraseñas (*Password Spray*), fatiga de MFA, viajes imposibles y reglas de buzón sospechosas. | `PowerShell` `Microsoft Graph API` `MITRE ATT&CK` `CI/CD` |
 | **[HuntKit](https://github.com/DamianMacancela/HuntKit)** | Toolkit de auditoría forense para detección de mecanismos de persistencia en Windows (Tareas Programadas, Run Keys, WMI Event Consumers) evaluando derivas (*drifts*) frente a líneas base. | `PowerShell 7` `WMI / CIM` `Registry` `Pester` |
 | **[pentest-lab-writeup](https://github.com/DamianMacancela/pentest-lab-writeup)** | Informe técnico de intrusión ética en entorno controlado bajo metodología **OWASP WSTG v4.2** (fases de reconocimiento, explotación controlada de SQLi y remediación mediante consultas parametrizadas). | `OWASP WSTG` `Burp Suite` `SQLi` `Hashcat` |
